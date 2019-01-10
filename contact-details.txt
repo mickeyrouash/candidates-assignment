@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Mickey Rouash
+email: mickey.rouash@gmail.com
